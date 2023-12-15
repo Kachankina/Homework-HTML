@@ -1,0 +1,59 @@
+*{
+    background-color: #f8f8e8;
+}
+.first{
+    color: black;
+    font-size: 18px;
+    font-weight: 400;
+    background-color:  #eaeaca;
+
+}
+p{
+    color: #707070;
+    font-size: 14px;
+    font-style: italic;
+    line-height: 16px;
+    text-align: left;
+}
+#menu1{
+    list-style-image: url(media/Marker_2_29774.png);
+    color: #707070;
+    font-size: 14px;
+    font-style: italic;
+    line-height: 16px;
+    text-align: left;
+}
+#menu2{
+    list-style-image: url(media/Marker_2_29774.png);
+    color: #707070;
+    font-size: 14px;
+    font-style: italic;
+    line-height: 16px;
+    text-align: left;
+}
+#menu3{
+    list-style-image:url(media/Marker_2_29774.png);
+    color: #707070;
+    font-size: 14px;
+    font-style: italic;
+    line-height: 16px;
+    text-align: left;
+}
+#menu4 {
+    list-style-image: url(media/Marker_2_29774.png);
+    color: #707070;
+    font-size: 14px;
+    font-style: italic;
+    line-height: 16px;
+    text-align: left;
+}
+
+div.container{
+  width: 100%;
+  margin: 0 auto; /* центрируем основной контейнер */
+}
+img {
+  width: 100%; /* ширина картинки */
+}
+
+
